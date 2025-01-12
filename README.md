@@ -1,7 +1,7 @@
 
 # Ecommerce Automation using SpringBoot Framework
 
-The java spring automation project is developed using Cucumber- TestNG automation framework with below components:
+The spring automation project is developed using Cucumber- TestNG automation framework with below components:
  - Selenium - To validate ecommerce website https://rahulshettyacademy.com/client/
  - RestAssured - To validate API's response as per the request.
  - JDBC - To perform DB operations perform assertions as per the scenario.
