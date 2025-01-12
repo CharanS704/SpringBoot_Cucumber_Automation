@@ -18,7 +18,7 @@ The java spring automation project is developed using Cucumber- TestNG automatio
 
 - Dependency Injection - Design pattern to achieve Inversion OfControl.
 - Selenium 4 - To validate Web application via automation
-- Cucumber - An open source which supports behavior driver development approach. 
+- Cucumber - Tool which supports behavior driver development approach. 
 - TestNG - To validate the expected results during execution using assertions.
  - Spring JDBC - To interact with the data base in order to perform DB operations.
  - RestAssured - To interact with the API's and validate the response as per the requests.
